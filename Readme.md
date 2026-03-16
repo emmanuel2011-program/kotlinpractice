@@ -1,7 +1,4 @@
-# Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
+building a console based 3MTT calculator
 
 This project is a console-based Smart Calculator built with Kotlin.
 
@@ -9,7 +6,7 @@ The purpose of This project console-based Smart Calculator built with Kotlin is 
 
 
 
-[Software Demo Video](http://youtube.link.goes.https://youtu.be/RgUQeVELMsQ)
+[Software Demo Video](http://youtube.link.goes.https://youtu.be/RgUQeVELMsQhttps://youtu.be/RgUQeVELMsQ)
 
 # Development Environment
 
